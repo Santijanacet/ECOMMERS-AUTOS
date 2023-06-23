@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+}
+
+.container {
+    max-width: 80%;
+    background-color: transparent;
+    box-shadow: 10px 10px 10px 10px rgb(0, 23, 150);
+    border-radius: 20px;
+    padding: 8px 100px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+
+}
+
+.icon{
+   font-size: 200px;
+}

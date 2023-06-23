@@ -1,0 +1,69 @@
+[  
+   {
+      "nombre": "A6",
+      "imagen":"images/Audi/audi 1.jpg",
+      "precio": "300.000.000"
+    },
+   {
+      "nombre": "R8 coupé",
+      "imagen":"images/Audi/auidi 2.jpg",
+      "precio": "800.000.000"
+    },
+   {
+      "nombre": "E-tron",
+      "imagen":"images/Audi/auidi 3.jpg",
+      "precio": "240.000.000"
+    },
+   {
+      "nombre": "R8",
+      "imagen":"images/Audi/auidi 4.jpg",
+      "precio": "400.000.000"
+    },
+   {
+      "nombre": "Q2",
+      "imagen":"images/Audi/auidi 5.jpg",
+      "precio": "240.000.000"
+    },
+   {
+      "nombre": "Q5 Sportback",
+      "imagen":"images/Audi/auidi 6.jpg",
+      "precio": "225.000.000"
+    },
+   {
+      "nombre": "E-tron",
+      "imagen":"images/Audi/audi 13.jpg",
+      "precio": "280.000.000"
+    },
+   {
+      "nombre": "Q3 Sportback",
+      "imagen":"images/Audi/audi 8.jpg",
+      "precio": "350.000.000"
+    },
+   {
+      "nombre": "R8 coupé",
+      "imagen":"images/Audi/audi 9.jpg",
+      "precio": "860.000.000"
+    },
+   {
+      "nombre": "RS3 sedán",
+      "imagen":"images/Audi/auidi 11.jpg",
+      "precio": "240.000.000"
+    },
+   {
+      "nombre": "R8 convertible",
+      "imagen":"images/Audi/audi 10.jpg",
+      "precio": "700.000.000"
+    },
+   {
+      "nombre": "S3 sedán",
+      "imagen":"images/Audi/auidi 12.jpg",
+      "precio": "220.000.000"
+    }
+    
+   
+]
+    
+ 
+    
+  
+  

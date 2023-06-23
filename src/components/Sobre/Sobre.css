@@ -1,0 +1,17 @@
+.tit{
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.des{
+    text-align: justify;
+    padding: 30px;
+    font-size: 15px;
+}
+
+.span{
+    position: relative;
+    left: -410px;
+}
